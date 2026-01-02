@@ -6,4 +6,3 @@ int main(){
     char *p = c; // single pointer pointing to first character of array
     cout<<p+p[3]-p[1];
     cout<<endl;
-}
